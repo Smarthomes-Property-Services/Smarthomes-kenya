@@ -1,2 +1,2 @@
-# Smarthomes-kenya
+# SmartHomes-kenya
 Nextgen PropTech OS 
