@@ -1,2 +1,1 @@
-# SmartHomes-kenya
-Nextgen PropTech OS 
+# https://github.com/smarthomes-kenya/rep
